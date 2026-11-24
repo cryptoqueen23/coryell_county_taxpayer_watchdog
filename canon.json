@@ -1,0 +1,47 @@
+[
+  {
+    "id": "TAX-2026-001",
+    "issuer": "Coryell County Tax Office",
+    "title": "2026 Tax Rate Breakdown",
+    "year": "2026",
+    "category": "Tax rates",
+    "status": "Pending source review",
+    "url": "https://coryellcountytax.com/wp-content/uploads/2026/09/2026-TAX-RATES.pdf",
+    "printedPage": null,
+    "pdfPage": null,
+    "quotation": null,
+    "effectiveDate": null,
+    "archiveUrl": null,
+    "sha256": null
+  },
+  {
+    "id": "CITY-2026-001",
+    "issuer": "City of Copperas Cove",
+    "title": "2026-27 Fee Schedule",
+    "year": "2026–2027",
+    "category": "Utility fees",
+    "status": "Pending source review",
+    "url": "https://www.copperascovetx.gov/DocumentCenter/View/7053/2026-27-Adopting-the-Fee-Schedule-PDF",
+    "printedPage": null,
+    "pdfPage": null,
+    "quotation": null,
+    "effectiveDate": null,
+    "archiveUrl": null,
+    "sha256": null
+  },
+  {
+    "id": "CITY-2026-002",
+    "issuer": "City of Copperas Cove",
+    "title": "Fiscal Year 2026-27 Proposed Budget",
+    "year": "2026–2027",
+    "category": "Proposed budget",
+    "status": "Proposed; pending source review",
+    "url": "https://www.copperascovetx.gov/DocumentCenter/View/6639/Fiscal-Year-2026-27-Proposed-Budget-PDF",
+    "printedPage": null,
+    "pdfPage": null,
+    "quotation": null,
+    "effectiveDate": null,
+    "archiveUrl": null,
+    "sha256": null
+  }
+]
