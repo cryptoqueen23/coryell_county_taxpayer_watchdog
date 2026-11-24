@@ -5,14 +5,46 @@
     "title": "2026 Tax Rate Breakdown",
     "year": "2026",
     "category": "Tax rates",
-    "status": "Pending source review",
+    "status": "Verified against uploaded original; archive pending",
     "url": "https://coryellcountytax.com/wp-content/uploads/2026/09/2026-TAX-RATES.pdf",
-    "printedPage": null,
-    "pdfPage": null,
-    "quotation": null,
+    "printedPage": "Unnumbered",
+    "pdfPage": 1,
+    "quotation": "CCC City of Copperas Cove 0.447437 0.238982 0.686419; COUNTY Coryell County 0.450900 0.046500 0.497400; CCISD Copperas Cove ISD 0.757500 0.297400 1.054900",
     "effectiveDate": null,
     "archiveUrl": null,
-    "sha256": null
+    "sha256": null,
+    "rates": [
+      {
+        "name": "Copperas Cove",
+        "mo": 0.447437,
+        "is": 0.238982,
+        "total": 0.686419
+      },
+      {
+        "name": "Coryell County",
+        "mo": 0.4509,
+        "is": 0.0465,
+        "total": 0.4974
+      },
+      {
+        "name": "CCISD",
+        "mo": 0.7575,
+        "is": 0.2974,
+        "total": 1.0549
+      },
+      {
+        "name": "Central Texas College",
+        "mo": 0.0943,
+        "is": 0,
+        "total": 0.0943
+      },
+      {
+        "name": "Middle Trinity Groundwater",
+        "mo": 0.00589,
+        "is": 0,
+        "total": 0.00589
+      }
+    ]
   },
   {
     "id": "CITY-2026-001",
@@ -43,5 +75,40 @@
     "effectiveDate": null,
     "archiveUrl": null,
     "sha256": null
+  },
+  {
+    "id": "COUNTY-2026-001",
+    "issuer": "Coryell County",
+    "title": "FY2026 Amended Budget",
+    "year": "2026",
+    "category": "Amended budget",
+    "status": "Original reviewed; official URL and archive pending",
+    "url": null,
+    "printedPage": 4,
+    "pdfPage": 8,
+    "quotation": "TOTAL INDEBTEDNESS AS OF SEPTEMBER 30, 2025 $8,415,084.79",
+    "archiveUrl": null,
+    "sha256": null,
+    "findings": [
+      {
+        "label": "Reported indebtedness",
+        "value": 8415084.79,
+        "asOf": "2025-09-30",
+        "printedPage": 4,
+        "pdfPage": 8
+      },
+      {
+        "label": "Budgeted debt reduction",
+        "value": 1578034.32,
+        "printedPage": 2,
+        "pdfPage": 6
+      },
+      {
+        "label": "Budgeted interest payable",
+        "value": 355798.31,
+        "printedPage": 2,
+        "pdfPage": 6
+      }
+    ]
   }
 ]
