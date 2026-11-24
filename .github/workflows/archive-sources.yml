@@ -1,0 +1,19 @@
+name: Archive public source PDFs
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Preserve matching public PDFs
+        run: python3 scripts/archive_sources.py
+      - name: Commit archive
+        run: |
+          git config user.name "Taxpayer Watchdog Archive"
+          git config user.email "archive@users.noreply.github.com"
+          git add archive canon.json
+          git diff --cached --quiet || git commit -m "Preserve verified public PDF versions"
+          git push
