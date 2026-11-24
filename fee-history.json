@@ -1,0 +1,46 @@
+{
+  "versions": [
+    {
+      "id": "CITY-2026-001",
+      "effective": "2026-10-01",
+      "adopted": "2026-09-01",
+      "status": "adopted",
+      "source": "https://www.copperascovetx.gov/DocumentCenter/View/7053/2026-27-Adopting-the-Fee-Schedule-PDF",
+      "fees": {
+        "waterBase": {
+          "amount": 34.55,
+          "page": 19
+        },
+        "sewerBase": {
+          "amount": 22.52,
+          "page": 19
+        },
+        "drainage": {
+          "amount": 11,
+          "page": 19
+        },
+        "garbage": {
+          "amount": 30.56,
+          "page": 20
+        },
+        "street": {
+          "amount": 10,
+          "page": 11
+        }
+      },
+      "waterTiers": [
+        6.91,
+        8.29,
+        9.95
+      ],
+      "sewerRate": 5.46
+    }
+  ],
+  "pending": [
+    {
+      "year": "2025-2026",
+      "reason": "Original historical adopted schedule required; generic city URL now serves October 2026 version"
+    }
+  ],
+  "policy": "Never extrapolate a verified schedule backward; future revisions require an effective date and original source."
+}
