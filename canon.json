@@ -145,5 +145,47 @@
         "quotation": "Budgeted debt reduction for 2026 budget year $1,578,034.32; Budgeted interest payable for 2026 budget year $355,798.31"
       }
     ]
+  },
+  {
+    "id": "CITY-BRB-2025",
+    "issuer": "Texas Bond Review Board",
+    "title": "Cities – FY2025 debt outstanding",
+    "year": "2025",
+    "category": "State debt data",
+    "status": "Historical state database entry",
+    "url": "https://data.brb.texas.gov/local/city/",
+    "printedPage": "Not applicable (HTML)",
+    "pdfPage": null,
+    "quotation": "Copperas Cove | $110,305,000",
+    "findings": [
+      {
+        "label": "FY2025 outstanding debt (BRB)",
+        "value": 110305000,
+        "asOf": "2025-08-31"
+      }
+    ],
+    "archiveUrl": null,
+    "sha256": null
+  },
+  {
+    "id": "SCHOOL-DEBT",
+    "issuer": "Texas Bond Review Board",
+    "title": "Independent School Districts – FY2025 debt outstanding",
+    "year": "2025",
+    "category": "State debt data",
+    "status": "Historical state database entry; predates November 2025 bond authorization",
+    "url": "https://data.brb.texas.gov/local/isd/",
+    "printedPage": "Not applicable (HTML)",
+    "pdfPage": null,
+    "quotation": "Copperas Cove ISD | $0",
+    "findings": [
+      {
+        "label": "FY2025 outstanding debt (BRB; not current)",
+        "value": 0,
+        "asOf": "2025-08-31"
+      }
+    ],
+    "archiveUrl": null,
+    "sha256": null
   }
 ]
