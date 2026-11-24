@@ -52,14 +52,42 @@
     "title": "2026-27 Fee Schedule",
     "year": "2026–2027",
     "category": "Utility fees",
-    "status": "Pending source review",
+    "status": "Verified official schedule; archive pending",
     "url": "https://www.copperascovetx.gov/DocumentCenter/View/7053/2026-27-Adopting-the-Fee-Schedule-PDF",
-    "printedPage": null,
-    "pdfPage": null,
-    "quotation": null,
-    "effectiveDate": null,
+    "printedPage": "Unnumbered",
+    "pdfPage": 19,
+    "quotation": "Sewer minimum rate (all customers) $22.52; Rate per 1,000 Gallons of Water (all customers) $5.46; (Residential customers only: Winter average - 8,000 gallon floor)",
+    "effectiveDate": "2026-10-01",
     "archiveUrl": null,
-    "sha256": null
+    "sha256": null,
+    "fees": {
+      "waterBase": 34.55,
+      "waterTiers": [
+        6.91,
+        8.29,
+        9.95
+      ],
+      "sewerMinimum": 22.52,
+      "sewerRate": 5.46,
+      "sewerFloor": 8000,
+      "drainage": 11,
+      "garbage": 30.56,
+      "street": 10
+    },
+    "citations": [
+      {
+        "pdfPage": 19,
+        "quotation": "5/8\" x 3/4\" meter $34.55; Residential 0-5,000 $6.91; 5,001-10,000 $8.29; 10,001+ $9.95; Residential Single Family $11.00"
+      },
+      {
+        "pdfPage": 20,
+        "quotation": "Single-family residence $30.56"
+      },
+      {
+        "pdfPage": 11,
+        "quotation": "Single Family Equivalent Fee $10.00"
+      }
+    ]
   },
   {
     "id": "CITY-2026-002",
