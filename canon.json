@@ -59,7 +59,7 @@
     "quotation": "Sewer minimum rate (all customers) $22.52; Rate per 1,000 Gallons of Water (all customers) $5.46; (Residential customers only: Winter average - 8,000 gallon floor)",
     "effectiveDate": "2026-10-01",
     "archiveUrl": null,
-    "sha256": "1fb2138340a9055305b6f480ee2c0f4805590afbd2160a696607fe1a10df0b5b",
+    "sha256": null,
     "fees": {
       "waterBase": 34.55,
       "waterTiers": [
@@ -92,7 +92,8 @@
     "originalFilename": "Ord. No. 2026-27 Adopting the Fee Schedule (2).pdf",
     "pdfPageCount": 22,
     "sourceVerification": "Uploaded signed original reviewed; public URL not byte-compared",
-    "adoptionPdfPage": 3
+    "adoptionPdfPage": 3,
+    "integrityNote": "Previously recorded fingerprint was not independently calculated from original bytes; verification pending."
   },
   {
     "id": "CITY-2026-002",
