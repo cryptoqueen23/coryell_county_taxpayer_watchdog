@@ -1,0 +1,24 @@
+{
+  "title": "Accounts Payable Check Register FY2025",
+  "coverage": "Partial sample only; official direct URL pending",
+  "rows": [
+    {
+      "check": "61223",
+      "date": "10/08/2024",
+      "amount": 1004087.06,
+      "vendor": "BUTLER-COHEN LLC",
+      "fund": "070",
+      "page": 3,
+      "quote": "61223     10/08/2024       1,004,087.06                       BUTLER-COHEN LLC                     B00227       070         01"
+    },
+    {
+      "check": "62343",
+      "date": "01/14/2025",
+      "amount": 393552.31,
+      "vendor": "BUTLER-COHEN LLC",
+      "fund": "070",
+      "page": 15,
+      "quote": "62343     01/14/2025         393,552.31                       BUTLER-COHEN LLC                     B00227       070         01"
+    }
+  ]
+}
