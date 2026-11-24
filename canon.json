@@ -52,14 +52,14 @@
     "title": "2026-27 Fee Schedule",
     "year": "2026–2027",
     "category": "Utility fees",
-    "status": "Verified official schedule; archive pending",
+    "status": "Signed adopted ordinance reviewed; uploaded original fingerprint verified",
     "url": "https://www.copperascovetx.gov/DocumentCenter/View/7053/2026-27-Adopting-the-Fee-Schedule-PDF",
     "printedPage": "Unnumbered",
     "pdfPage": 19,
     "quotation": "Sewer minimum rate (all customers) $22.52; Rate per 1,000 Gallons of Water (all customers) $5.46; (Residential customers only: Winter average - 8,000 gallon floor)",
     "effectiveDate": "2026-10-01",
     "archiveUrl": null,
-    "sha256": null,
+    "sha256": "1fb2138340a9055305b6f480ee2c0f4805590afbd2160a696607fe1a10df0b5b",
     "fees": {
       "waterBase": 34.55,
       "waterTiers": [
@@ -87,7 +87,12 @@
         "pdfPage": 11,
         "quotation": "Single Family Equivalent Fee $10.00"
       }
-    ]
+    ],
+    "adoptionDate": "2026-09-01",
+    "originalFilename": "Ord. No. 2026-27 Adopting the Fee Schedule (2).pdf",
+    "pdfPageCount": 22,
+    "sourceVerification": "Uploaded signed original reviewed; public URL not byte-compared",
+    "adoptionPdfPage": 3
   },
   {
     "id": "CITY-2026-002",
