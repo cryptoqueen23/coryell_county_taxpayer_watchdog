@@ -144,7 +144,42 @@
         "printedPage": 2,
         "quotation": "Budgeted debt reduction for 2026 budget year $1,578,034.32; Budgeted interest payable for 2026 budget year $355,798.31"
       }
-    ]
+    ],
+    "spending": {
+      "pdfPage": 32,
+      "printedPage": 28,
+      "classification": "Proposed FY2026 budget, not actual expenditures",
+      "entries": [
+        [
+          "Total Revenue",
+          32586832.84
+        ],
+        [
+          "Total Expenditures",
+          35468454.56
+        ],
+        [
+          "Excess (Deficit) of Revenues over Expenditures",
+          -2881621.72
+        ],
+        [
+          "Financing Agreements",
+          675000
+        ],
+        [
+          "Excess (Deficit) of Revenues and Other Sources over Expenditures",
+          -2206621.72
+        ],
+        [
+          "Fund Balances Beginning of Year",
+          8928884.37
+        ],
+        [
+          "ENDING BALANCE OF FUNDS",
+          6722262.65
+        ]
+      ]
+    }
   },
   {
     "id": "CITY-BRB-2025",
