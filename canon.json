@@ -107,11 +107,11 @@
   {
     "id": "COUNTY-2026-001",
     "issuer": "Coryell County",
-    "title": "FY2026 Amended Budget",
+    "title": "FY2026 Amended Proposed Annual Operating Budget",
     "year": "2026",
     "category": "Amended budget",
-    "status": "Original reviewed; official URL and archive pending",
-    "url": null,
+    "status": "Historical proposed budget; source reviewed; archive pending",
+    "url": "https://coryellcountyclerk.com/wp-content/uploads/2025/09/AMENDED-FY-2026-BUDGET.pdf",
     "printedPage": 4,
     "pdfPage": 8,
     "quotation": "TOTAL INDEBTEDNESS AS OF SEPTEMBER 30, 2025 $8,415,084.79",
@@ -136,6 +136,13 @@
         "value": 355798.31,
         "printedPage": 2,
         "pdfPage": 6
+      }
+    ],
+    "citations": [
+      {
+        "pdfPage": 6,
+        "printedPage": 2,
+        "quotation": "Budgeted debt reduction for 2026 budget year $1,578,034.32; Budgeted interest payable for 2026 budget year $355,798.31"
       }
     ]
   }
