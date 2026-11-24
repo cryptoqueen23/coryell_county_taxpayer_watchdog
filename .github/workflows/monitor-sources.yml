@@ -1,0 +1,22 @@
+name: Monitor public financial documents
+on:
+  schedule:
+    - cron: '0 14 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: source-monitor
+  cancel-in-progress: false
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/monitor_sources.py
+      - run: |
+          git config user.name "Taxpayer Watchdog Monitor"
+          git config user.email "monitor@users.noreply.github.com"
+          git add source-monitor.json
+          git diff --cached --quiet || git commit -m "Record public source observations"
+          git push
