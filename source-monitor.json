@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-24T23:24:57.837100+00:00",
+  "checkedAt": "2026-11-25T22:58:15.877402+00:00",
   "records": [
     {
       "id": "TAX-2026-001",
@@ -7,7 +7,7 @@
       "url": "https://coryellcountytax.com/wp-content/uploads/2026/09/2026-TAX-RATES.pdf",
       "baseline": "e79e4558ff4870aeec66bd6537b5f8acf3c2f60c71c0aa0bd514df20b363f14e",
       "observedSha256": "e79e4558ff4870aeec66bd6537b5f8acf3c2f60c71c0aa0bd514df20b363f14e",
-      "status": "initial_observation"
+      "status": "unchanged"
     },
     {
       "id": "CITY-2026-001",
@@ -15,7 +15,7 @@
       "url": "https://www.copperascovetx.gov/DocumentCenter/View/7053/2026-27-Adopting-the-Fee-Schedule-PDF",
       "baseline": "1fb2138340a9055305b6f480ee2c0f4805590afbd2160a696607fe1a10df0b5b",
       "observedSha256": "1fb2138340a9055305b6f480ee2c0f4805590afbd2160a696607fe1a10df0b5b",
-      "status": "initial_observation"
+      "status": "unchanged"
     },
     {
       "id": "CITY-2026-002",
@@ -31,7 +31,7 @@
       "url": "https://coryellcountyclerk.com/wp-content/uploads/2025/09/AMENDED-FY-2026-BUDGET.pdf",
       "baseline": "b7444bacc8f2e3785d2ec2652e86d4605f84fb89f46a23076b46867e1af3ab9a",
       "observedSha256": "b7444bacc8f2e3785d2ec2652e86d4605f84fb89f46a23076b46867e1af3ab9a",
-      "status": "initial_observation"
+      "status": "unchanged"
     },
     {
       "id": "CITY-BRB-2025",
